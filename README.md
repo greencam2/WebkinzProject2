@@ -1,2 +1,0 @@
-# Webkinz
- project 2
